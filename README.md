@@ -33,7 +33,7 @@ BMI_Calculator_with_Docker/
 
 -----------------------How to Run Using Docker---------------------
 -> Clone the Repository
-      git clone https://github.com/your-username/bmi-calculator-docker.git
+      git clone https://github.com/Aniket-kumar07/BMI_Calculator_with_Docker.git
       cd BMI_Calculator_with_Docker/
       
 -> Build Docker Image
